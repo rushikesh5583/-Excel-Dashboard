@@ -13,3 +13,7 @@ Visual Charts and Graphs for Easy Insights
 
 # Objective
 "To monitor sales performance, evaluate profitability, identify business opportunities, and support strategic decision-making through clear and interactive data visualization."
+
+<img width="1222" height="631" alt="image" src="https://github.com/user-attachments/assets/1c098401-d0f3-49ac-8f03-934e6411e120" />
+
+

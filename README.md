@@ -10,3 +10,6 @@ Product Category Analysis
 Top Customers and Best-Selling Products
 Interactive Filters (Slicers) for Dynamic Reporting
 Visual Charts and Graphs for Easy Insights
+
+# Objective
+"To monitor sales performance, evaluate profitability, identify business opportunities, and support strategic decision-making through clear and interactive data visualization."
